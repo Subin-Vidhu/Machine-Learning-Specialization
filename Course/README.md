@@ -115,9 +115,3 @@ In the third course of the Machine Learning Specialization, you will:
 3. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
 ---
-
-## 📝 License
-
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
----
